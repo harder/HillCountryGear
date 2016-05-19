@@ -1,3 +1,12 @@
 * {
   font-family:Calibri;
 }
+
+html {
+  background-color:white;
+}
+
+.logo {
+  float: left;
+  clear: both;
+}
