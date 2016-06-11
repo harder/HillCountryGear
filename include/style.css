@@ -49,14 +49,14 @@ header {
     vertical-align: middle;
 }
 #call-us {
-    float: right;
+    /*float: right;*/
     color: goldenrod;
     font-size: 1.5em;
     vertical-align: middle;
 }
 main {
     /*float: right;*/
-    /*clear: both;*/
+    clear: both;
 }
 section {
     width: 80%;
@@ -94,8 +94,8 @@ section {
     position: relative;
 }
 #main-image {
-    height: 384px;
-    width: 512px;
+    height: 50%;
+    width: 50%;
     background-image: url("../images/Iceland.jpg");
     border-radius: 20px;
     position: relative;
@@ -121,6 +121,7 @@ section {
     float: left;
     padding: 20px;
     border: 1px solid black;
+    width: calc(40% - 40px);
 }
 .more {
     /*height: 500px;*/
