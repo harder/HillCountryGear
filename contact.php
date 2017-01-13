@@ -94,7 +94,7 @@ require "include/topnavigation/topnavigation.php";
     </section>
 
 
-    
+
 <?
 //bring in the footer
 require "include/footers/footer.php";
