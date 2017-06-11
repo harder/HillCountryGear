@@ -1,1 +1,11 @@
-node_modules
+node_modules# HillCountryGear
+
+_notes/
+fonts/**
+about_backup.php
+index_original.html
+index_test.php
+template.php
+img/team/**
+include/db_connect.php
+include/dbinfo.php
